@@ -1,0 +1,12 @@
+{
+  "name": "todo_project",
+  "version": "1.0.0",
+  "description": "This is a Todo Application.\r It has following features -\r - User can create a Todo.\r - User can see existing Todo.\r - A user can mark a Todo as done.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
